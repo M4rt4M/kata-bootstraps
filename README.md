@@ -1,3 +1,5 @@
+Exercise: https://kata-log.rocks/score-keeper-kata
+
 # kata-bootstraps
 
 [![java-ci-badge]][ci-actions]
